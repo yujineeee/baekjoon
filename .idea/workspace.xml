@@ -20,11 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588ed9d8-9237-4771-9b96-f34c3a285be7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv2-if/Level01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv2-if/Level02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv2-if/Level03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv2-if/Level04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv2-if/Level05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811dab7602d276e26c74da7412dba92ba041a727" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811dab7602d276e26c74da7412dba92ba041a727" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90f6942b827e8a314d3a0634eeb5f9e08c261132" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90f6942b827e8a314d3a0634eeb5f9e08c261132" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8fa559d3e4b1664ba930ad21b2b5c8c2e65dc2d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8fa559d3e4b1664ba930ad21b2b5c8c2e65dc2d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c33db1b6aa66cfce9a7fcfef008ad98e6a1de224" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c33db1b6aa66cfce9a7fcfef008ad98e6a1de224" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +64,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/algorithm/lv2-if" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/algorithm/lv3" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/algorithm/lv2-if" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv3" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.algorithm.lv1" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/algorithm" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv3" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv2-if" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Level11">
@@ -159,7 +173,9 @@
       <option name="presentableId" value="Default" />
       <updated>1634646951600</updated>
       <workItem from="1634646953108" duration="4737000" />
-      <workItem from="1635764794003" duration="3287000" />
+      <workItem from="1635764794003" duration="4004000" />
+      <workItem from="1636032482990" duration="45000" />
+      <workItem from="1636032565064" duration="4370000" />
     </task>
     <servers />
   </component>
@@ -179,6 +195,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="480" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636032581632">
+      <screen x="51" y="23" width="1741" height="1097" />
+    </state>
+    <state x="480" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.23.1741.1097@51.23.1741.1097" timestamp="1636032581632" />
     <state width="826" height="302" key="GridCell.Tab.0.bottom" timestamp="1634690334576">
       <screen x="49" y="23" width="1743" height="1097" />
     </state>
@@ -203,6 +223,10 @@
       <screen x="49" y="23" width="1743" height="1097" />
     </state>
     <state x="1021" y="123" width="670" height="897" key="dock-window-1/49.23.1743.1097@49.23.1743.1097" timestamp="1634689595798" />
+    <state x="854" y="363" width="600" height="538" key="find.popup" timestamp="1636034317253">
+      <screen x="51" y="23" width="1741" height="1097" />
+    </state>
+    <state x="854" y="363" width="600" height="538" key="find.popup/51.23.1741.1097@51.23.1741.1097" timestamp="1636034317253" />
     <state x="1019" y="266" width="672" height="678" key="search.everywhere.popup" timestamp="1634650991643">
       <screen x="49" y="23" width="1743" height="1097" />
     </state>
@@ -220,7 +244,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/algorithm/lv1/Level10.java</url>
+          <url>file://$PROJECT_DIR$/src/com/algorithm/lv3/Level10.java</url>
           <line>15</line>
           <properties class="com.algorithm.lv1.Level10" method="main">
             <option name="EMULATED" value="true" />
@@ -228,7 +252,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/algorithm/lv1/Level11.java</url>
+          <url>file://$PROJECT_DIR$/src/com/algorithm/lv3/Level11.java</url>
           <line>17</line>
           <properties class="com.algorithm.lv1.Level11" method="main">
             <option name="EMULATED" value="true" />
