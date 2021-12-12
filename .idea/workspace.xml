@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,23 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="588ed9d8-9237-4771-9b96-f34c3a285be7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811dab7602d276e26c74da7412dba92ba041a727" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/811dab7602d276e26c74da7412dba92ba041a727" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90f6942b827e8a314d3a0634eeb5f9e08c261132" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90f6942b827e8a314d3a0634eeb5f9e08c261132" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8fa559d3e4b1664ba930ad21b2b5c8c2e65dc2d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8fa559d3e4b1664ba930ad21b2b5c8c2e65dc2d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c33db1b6aa66cfce9a7fcfef008ad98e6a1de224" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c33db1b6aa66cfce9a7fcfef008ad98e6a1de224" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level02_11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level03_10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level04_2678.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level05_1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level06_1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level07_2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level08_5622.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level09_2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/lv7/Level10_1316.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithm/lv1/Level11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/lv3/Level11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/META-INF/baekjoon.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/com/algorithm/lv1/lv11_question_image.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +55,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1zj20EEeR5RMvaLbF9tbFK011o5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/algorithm/lv3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/algorithm/lv7" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv7" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv6" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv5" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm" />
+      <recent name="$PROJECT_DIR$/src/com/algorithm/lv3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/algorithm/lv3" />
       <recent name="$PROJECT_DIR$/src/com/algorithm" />
@@ -74,94 +92,18 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.algorithm.lv1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/algorithm/lv3" />
-      <recent name="$PROJECT_DIR$/src/com/algorithm/lv2-if" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Level11">
-    <configuration name="Level06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.lv1.Level06" />
+  <component name="RunManager">
+    <configuration name="dd" type="Application" factoryName="Application" singleton="false">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.lv1.Level07" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.lv1.Level08" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.lv1.Level10" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithm.lv1.Level11" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algorithm.lv1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Level06" />
-      <item itemvalue="Application.Level07" />
-      <item itemvalue="Application.Level08" />
-      <item itemvalue="Application.Level10" />
-      <item itemvalue="Application.Level11" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Level11" />
-        <item itemvalue="Application.Level10" />
-        <item itemvalue="Application.Level08" />
-        <item itemvalue="Application.Level07" />
-        <item itemvalue="Application.Level06" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -176,11 +118,19 @@
       <workItem from="1635764794003" duration="4004000" />
       <workItem from="1636032482990" duration="45000" />
       <workItem from="1636032565064" duration="4370000" />
+      <workItem from="1636874983447" duration="1213000" />
+      <workItem from="1637494859056" duration="750000" />
+      <workItem from="1637495646322" duration="593000" />
+      <workItem from="1637496422613" duration="4592000" />
+      <workItem from="1638703641104" duration="216000" />
+      <workItem from="1638703880613" duration="2000" />
+      <workItem from="1638703901345" duration="4265000" />
+      <workItem from="1639301481737" duration="7951000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -193,44 +143,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="480" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636032581632">
-      <screen x="51" y="23" width="1741" height="1097" />
-    </state>
-    <state x="480" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.23.1741.1097@51.23.1741.1097" timestamp="1636032581632" />
-    <state width="826" height="302" key="GridCell.Tab.0.bottom" timestamp="1634690334576">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state width="826" height="302" key="GridCell.Tab.0.bottom/49.23.1743.1097@49.23.1743.1097" timestamp="1634690334576" />
-    <state width="1472" height="302" key="GridCell.Tab.0.bottom/51.23.1741.1097@51.23.1741.1097" timestamp="1634649577321" />
-    <state width="826" height="302" key="GridCell.Tab.0.center" timestamp="1634690334575">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state width="826" height="302" key="GridCell.Tab.0.center/49.23.1743.1097@49.23.1743.1097" timestamp="1634690334575" />
-    <state width="1472" height="302" key="GridCell.Tab.0.center/51.23.1741.1097@51.23.1741.1097" timestamp="1634649577321" />
-    <state width="826" height="302" key="GridCell.Tab.0.left" timestamp="1634690334575">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state width="826" height="302" key="GridCell.Tab.0.left/49.23.1743.1097@49.23.1743.1097" timestamp="1634690334575" />
-    <state width="1472" height="302" key="GridCell.Tab.0.left/51.23.1741.1097@51.23.1741.1097" timestamp="1634649577321" />
-    <state width="826" height="302" key="GridCell.Tab.0.right" timestamp="1634690334576">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state width="826" height="302" key="GridCell.Tab.0.right/49.23.1743.1097@49.23.1743.1097" timestamp="1634690334576" />
-    <state width="1472" height="302" key="GridCell.Tab.0.right/51.23.1741.1097@51.23.1741.1097" timestamp="1634649577321" />
-    <state x="1021" y="123" width="670" height="897" key="dock-window-1" timestamp="1634689595798">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state x="1021" y="123" width="670" height="897" key="dock-window-1/49.23.1743.1097@49.23.1743.1097" timestamp="1634689595798" />
-    <state x="854" y="363" width="600" height="538" key="find.popup" timestamp="1636034317253">
-      <screen x="51" y="23" width="1741" height="1097" />
-    </state>
-    <state x="854" y="363" width="600" height="538" key="find.popup/51.23.1741.1097@51.23.1741.1097" timestamp="1636034317253" />
-    <state x="1019" y="266" width="672" height="678" key="search.everywhere.popup" timestamp="1634650991643">
-      <screen x="49" y="23" width="1743" height="1097" />
-    </state>
-    <state x="1019" y="266" width="672" height="678" key="search.everywhere.popup/49.23.1743.1097@49.23.1743.1097" timestamp="1634650991643" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -258,6 +170,11 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/lv5/Level01.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
